@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning how to code 
 - 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate with anyone who is good at this 2 languages
-- 📫 you can reach me on timothygyan1996@gmail.com
+- 📫 You can reach me on timothygyan1996@gmail.com
 
 <!---
 Maximothy/Maximothy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
